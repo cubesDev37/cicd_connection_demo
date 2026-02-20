@@ -1,16 +1,28 @@
-# cicd_project
+# cicd_connection_demo
 
-A new Flutter project.
+A Flutter project to learn and demonstrate CI/CD integration.
 
-## Getting Started
+## 🚀 About This Project
 
-This project is a starting point for a Flutter application.
+This repository is created to practice:
 
-A few resources to get you started if this is your first Flutter project:
+- GitHub integration
+- CI/CD pipeline setup
+- Flutter build automation
+- Deployment workflows
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- GitHub
+- CI/CD Tools
+
+## 📖 Resources
+
+- https://docs.flutter.dev/
+- https://docs.github.com/en/actions
+
+---
+
+Maintained for CI/CD learning purposes.
